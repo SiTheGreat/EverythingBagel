@@ -2,19 +2,6 @@
 
 	"Format": "2.0.0",
 
-	// Config //////////////////////////////////////////////////////////
-	
-	// STILL WORKING ON THIS PART
-	// "ConfigSchema":{
-
-	// 	"NeededForPerfection": {
-	// 		"AllowValues": "true, false",
-	// 		"Default": "false",
-	// 		"Description": "When enabled, you must make The Bagel to achieve perfection."
-	// 	},
-
-	// },
-
 	// Content //////////////////////////////////////////////////////////
 
 	"Changes": [
