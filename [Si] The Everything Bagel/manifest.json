@@ -2,7 +2,7 @@
 	"Name": "[Si] The Everything Bagel",
 	"Author": "SiTheGreat",
 	"Description": "Make a bagel using every ingredient in the game!",
-	"Version": "1.0.0",
+	"Version": "1.1.0",
 	"UniqueID": "Si.TheEverythingBagel",
 	"UpdateKeys": [ "Nexus:21535" ],
 	"ContentPackFor": {
